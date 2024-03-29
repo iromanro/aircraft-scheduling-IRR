@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## RUnning the app
+## Running the app
 
 In the project directory, first run `yarn install` to install all dependencies.
 Next, run `yarn start` to start the app
